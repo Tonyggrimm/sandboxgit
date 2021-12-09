@@ -1,0 +1,33 @@
+body {
+    font-family: cursive;
+}
+.header-coktail {
+    margin-top: 15px;
+    margin-bottom: 10px;
+    font-weight: bolder;
+}
+.btn-yellow {
+    background-color: white;
+}
+.info {
+    width: 100px ;
+    height: 38px ;
+    padding: 6px 12px !important;
+}
+.space-form {
+    margin-left: 50px !important;
+}
+.coktail-title:hover {
+    color:red;
+}
+.coktail-title:focus {
+    box-shadow: none;
+}
+.heart {
+    color: green;
+}
+
+#linkList a{
+	text-decoration:underline !important;
+}
+
